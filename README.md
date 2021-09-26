@@ -9,8 +9,9 @@ Highlighting features:
 - Reset current puzzle state
 
 HOW TO RUN:
-1. Clone the repository or download the executable file
+1. Download the **`LATEST VERSION (v21.09.26)`** of the executable file from this repository
 2. Make sure the most recent version of Java is installed on the system
 3. Double click and run the program
+4. Have fun solving puzzles!
 
 *send a request to view the code via email at youmenghin15@gmail.com
