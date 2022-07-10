@@ -1,4 +1,4 @@
-# GUI-Sudoku-Game-Executable
+# Sudoku-Executable
 
 Introducing a 9x9 fully functioning and very puzzling sudoku game written in mostly Java. The UI for the game was created using JavaFX and SceneBuilder.
 Using Mark Fredrick Graves's BAS and PAS sorting algorithms, this game is able to generate up to 1,000,000 unique puzzle grids in 7 seconds.
@@ -14,4 +14,4 @@ Using Mark Fredrick Graves's BAS and PAS sorting algorithms, this game is able t
 3. Double click and run the program
 4. Have fun solving puzzles!
 
-**Check out the game code, head to: [GUI-Sudoku-Game](https://github.com/youmengh/GUI-Sudoku-Game)**
+**Check out the game code, head to: [Sudoku](https://github.com/youmengh/Sudoku)**
