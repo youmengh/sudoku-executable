@@ -14,4 +14,4 @@ Using Mark Fredrick Graves's BAS and PAS sorting algorithms, this game is able t
 3. Double click and run the program
 4. Have fun solving puzzles!
 
-**Check out the game code, head to: [Sudoku](https://github.com/youmengh/Sudoku)**
+To check out the source code, head to: [Sudoku](https://github.com/youmengh/Sudoku)
